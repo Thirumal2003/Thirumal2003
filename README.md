@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm THIRUMAL P</h1>
+<h1 align="center">Hey 👋, I'm THIRUMAL P</h1>
 <h3 align="center">Student @ KIT(Artificial Intelligence & Data Science)</h3>
 
 - 🌱 I’m currently learning **Power bi, Java, Frontend, etc.**
