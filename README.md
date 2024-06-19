@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Power bi, Java, Frontend, etc.**
 
-- 📫 How to reach me **kit.25.21bad058@gmail**
+- 📫 How to reach me kit.25.21bad058@gmail.com
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1qjGtycR7Wys1IbZPJFVqYVPOw52J5Hh_?usp=drive_link](https://drive.google.com/drive/folders/1qjGtycR7Wys1IbZPJFVqYVPOw52J5Hh_?usp=drive_link)
 
