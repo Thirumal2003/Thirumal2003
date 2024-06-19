@@ -7,6 +7,16 @@
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1qjGtycR7Wys1IbZPJFVqYVPOw52J5Hh_?usp=drive_link](https://drive.google.com/drive/folders/1qjGtycR7Wys1IbZPJFVqYVPOw52J5Hh_?usp=drive_link)
 
+- **Certification**
+- *Infosys Springboard:
+  1.Python Foundation Certification.
+  2.Artificial Intelligence Foundation Certification.
+-*Coursera(IBM):
+  1.Intro to web development with HTML,CS,JS.
+  2.Applied AI with DeepLearning.
+- *Udemy:
+  1.Basics of Artificial Intelligenceb or Beginners.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/thirumal-p-5234a9266/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/thirumal-p-5234a9266/" height="30" width="40" /></a>
