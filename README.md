@@ -9,12 +9,14 @@
 
 - **Certification**
 - *Infosys Springboard:
+
+  
   1.Python Foundation Certification.
   2.Artificial Intelligence Foundation Certification.
 
 
   
--*Coursera(IBM):
+*Coursera(IBM):
   1.Intro to web development with HTML,CS,JS.
   2.Applied AI with DeepLearning.
 
