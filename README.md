@@ -8,21 +8,29 @@
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1qjGtycR7Wys1IbZPJFVqYVPOw52J5Hh_?usp=drive_link](https://drive.google.com/drive/folders/1qjGtycR7Wys1IbZPJFVqYVPOw52J5Hh_?usp=drive_link)
 
 - **Certification**
-- *Infosys Springboard:
+- Infosys Springboard:
+
+
+  1.Python Foundation Certification.
 
   
-  1.Python Foundation Certification.
   2.Artificial Intelligence Foundation Certification.
 
 
   
-*Coursera(IBM):
+Coursera(IBM):
+
+
   1.Intro to web development with HTML,CS,JS.
+
+  
   2.Applied AI with DeepLearning.
 
 
   
-- *Udemy:
+Udemy:
+
+  
   1.Basics of Artificial Intelligenceb or Beginners.
 
 <h3 align="left">Connect with me:</h3>
