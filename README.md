@@ -18,7 +18,7 @@
 
 
   
-Coursera(IBM):
+- Coursera(IBM):
 
 
   1.Intro to web development with HTML,CS,JS.
@@ -28,7 +28,7 @@ Coursera(IBM):
 
 
   
-Udemy:
+- Udemy:
 
   
   1.Basics of Artificial Intelligenceb or Beginners.
