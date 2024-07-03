@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm THIRUMAL P</h1>
 <h3 align="center">Student @ KIT(Artificial Intelligence & Data Science)</h3>
 
-- 🌱 I’m currently learning **Power bi, Java, Frontend, etc.**
+- 🌱 I’m currently learning **Power bi, Sql, Java, Frontend, etc.**
 
 - 📫 How to reach me **kit.25.21bad058@gmail**
 
