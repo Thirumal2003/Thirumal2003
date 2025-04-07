@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **kit.25.21bad058@gmail**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1qjGtycR7Wys1IbZPJFVqYVPOw52J5Hh_?usp=drive_link](https://drive.google.com/drive/folders/1qjGtycR7Wys1IbZPJFVqYVPOw52J5Hh_?usp=drive_link)
+- 📄 Know about my experiences[https://drive.google.com/drive/folders/1qjGtycR7Wys1IbZPJFVqYVPOw52J5Hh_?usp=drive_link](https://drive.google.com/drive/folders/1YLiO2ZXjsYGWB_rzmpoQYcA2WdrruvHi?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
