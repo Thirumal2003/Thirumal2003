@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Power bi, Sql, My Sql, Java, Frontend, etc.**
 
-- 📫 How to reach me **thiru43006@gmail**
+- 📫 How to reach me **thiru43006@gmail.com**
 
 - 📄 Know about my experiences[https://drive.google.com/drive/folders/1qjGtycR7Wys1IbZPJFVqYVPOw52J5Hh_?usp=drive_link](https://drive.google.com/drive/folders/1YLiO2ZXjsYGWB_rzmpoQYcA2WdrruvHi?usp=sharing)
 
