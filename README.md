@@ -40,4 +40,4 @@
   
   1.Basics of Artificial Intelligenceb or Beginners.
 
-  2.Sql Basic to Advance
+  2.Sql Basic to Advance.
