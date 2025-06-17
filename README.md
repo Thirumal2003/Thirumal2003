@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **thiru43006@gmail.com**
 
-- 📄 Know about my experiences([https://drive.google.com/drive/folders/1YLiO2ZXjsYGWB_rzmpoQYcA2WdrruvHi?usp=sharing](https://drive.google.com/drive/folders/1YLiO2ZXjsYGWB_rzmpoQYcA2WdrruvHi))
+- 📄 Know about my experiences([(https://drive.google.com/file/d/1zYK_poDGGFMhzkz0UarXcGCUp3RwGO80/view?usp=drivesdk](https://drive.google.com/file/d/1zYK_poDGGFMhzkz0UarXcGCUp3RwGO80/view?usp=drivesdk))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
