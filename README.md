@@ -27,17 +27,11 @@
   1.Python Foundation Certification.
 
   
-  2.Artificial Intelligence Foundation Certification.
-
-
   
 - Coursera(IBM):
 
 
   1.Intro to web development with HTML,CS,JS.
-
-  
-  2.Applied AI with DeepLearning.
 
 
   
@@ -45,3 +39,5 @@
 
   
   1.Basics of Artificial Intelligenceb or Beginners.
+
+  2.Sql Basic to Advance
