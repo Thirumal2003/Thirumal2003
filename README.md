@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm THIRUMAL P</h1>
 <h3 align="center">Student @ KIT(Artificial Intelligence & Data Science)</h3>
 
-- 🌱 I’m currently learning ** Js,Bootstrap,Python,React Js, etc.**
+- 🌱 I’m currently learning **Js,Bootstrap,Python,React Js, etc.**
 
 - 📫 How to reach me **thiru43006@gmail.com**
 
