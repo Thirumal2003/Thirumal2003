@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm THIRUMAL P</h1>
-<h3 align="center">Student @ KIT(Artificial Intelligence & Data Science)</h3>
+<h3 align="center">UG-B.Tech(Artificial Intelligence & Data Science)</h3>
 
 - 🌱 I’m currently learning **Js,Python,React Js, etc.**
 
